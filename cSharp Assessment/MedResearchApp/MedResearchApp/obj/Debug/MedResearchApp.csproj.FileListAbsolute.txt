@@ -1,0 +1,7 @@
+D:\training2022\assessment\CSHARP Assessment\MedResearchApp\MedResearchApp\bin\Debug\MedResearchApp.exe.config
+D:\training2022\assessment\CSHARP Assessment\MedResearchApp\MedResearchApp\bin\Debug\MedResearchApp.exe
+D:\training2022\assessment\CSHARP Assessment\MedResearchApp\MedResearchApp\bin\Debug\MedResearchApp.pdb
+D:\training2022\assessment\CSHARP Assessment\MedResearchApp\MedResearchApp\obj\Debug\MedResearchApp.csprojAssemblyReference.cache
+D:\training2022\assessment\CSHARP Assessment\MedResearchApp\MedResearchApp\obj\Debug\MedResearchApp.csproj.CoreCompileInputs.cache
+D:\training2022\assessment\CSHARP Assessment\MedResearchApp\MedResearchApp\obj\Debug\MedResearchApp.exe
+D:\training2022\assessment\CSHARP Assessment\MedResearchApp\MedResearchApp\obj\Debug\MedResearchApp.pdb
